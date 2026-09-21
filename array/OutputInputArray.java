@@ -1,4 +1,5 @@
 package array;
+import java.util.Scanner;
 
 public class OutputInputArray{
     public static void main (String[] args){
@@ -43,5 +44,32 @@ public class OutputInputArray{
         //     sum=sum+arr[i];
         // }
         // System.out.println("Sum of elements: " + sum);
-    }
+
+// print the maximum element in an array
+            // Scanner sc=new Scanner(System.in);
+            // int arr[]=new int[10];
+            // for(int i=0;i<arr.length;i++){
+            //     arr[i]=sc.nextInt();
+            // }
+            // int max=arr[0];
+            // for(int i=0;i<arr.length;i++){
+            //     if(arr[i]>max){
+            //         max=arr[i];
+            //     }
+            // }
+            // System.out.println("maximum elements: " + max);
+
+// print the product of elements in an array
+    //         Scanner sc=new Scanner(System.in);
+    //         int arr[]=new int[10];
+    //         for(int i=0;i<arr.length;i++){
+    //             arr[i]=sc.nextInt();
+    //         }
+    //         int product=1;
+    //         for(int i=0;i<arr.length;i++){
+    //             product=product*arr[i];
+    //         }
+    //         System.out.println("Product of elements: " + product);
+    // }
+
 }
