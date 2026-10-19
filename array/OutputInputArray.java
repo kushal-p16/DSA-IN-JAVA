@@ -1,5 +1,4 @@
 package array;
-import java.util.Scanner;
 
 public class OutputInputArray{
     public static void main (String[] args){
@@ -72,4 +71,14 @@ public class OutputInputArray{
     //         System.out.println("Product of elements: " + product);
     // }
 
-}
+//}                 minimum element in an array
+        //         int arr[]={32,-54,-89,-98,83,83};
+        //         int min=arr[0];
+        //         for(int i=0;i<arr.length;i++){
+        //             if(arr[i]<min){
+        //                 min=arr[i];
+        //             }
+        //         }
+        //         System.out.println("Minimum element: " + min);
+        //     }
+        // }
