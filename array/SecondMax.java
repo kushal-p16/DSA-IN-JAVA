@@ -15,6 +15,6 @@ public class SecondMax {
                 smax=arr[i];
             }
         }
-        System.out.println("The second  maximum element is: " + smax);
+        System.out.println("The second  maximum element is: " + smax); 
     }
 }
